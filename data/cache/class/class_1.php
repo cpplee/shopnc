@@ -1,0 +1,1 @@
+<?php defined('InShopNC') or exit('Access Invalid!'); return array ( 'class_root' => array ( ), 'class_menu' => array ( ), ) ?>
